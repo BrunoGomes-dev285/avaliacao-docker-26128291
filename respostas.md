@@ -71,5 +71,5 @@ o -v remove o volume nomeados
 10. Código de conclusão impresso pelo verificador:
 
 ```
-(cole aqui)
+Código de conclusão: AGROVALE-26128291-A9D3066A
 ```
